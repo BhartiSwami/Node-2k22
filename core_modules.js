@@ -18,4 +18,4 @@ console.log(__filename)
 
 //Import a perticular package
 
-const fs1 = require('fs').writeFileSync;
+const fs1 = require('fs').writeFileSync
